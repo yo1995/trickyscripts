@@ -1,0 +1,2 @@
+start
+ren *.JPG *.jpg
